@@ -13,4 +13,8 @@ This is a group project, we had to build an application with which we could:
 - watch a match played by other users
 and some others features.
 
-You can't run this app without the .env but here is some images of what you could find on our application.
+We used docker-compose to build are application so it can be launch with a simple 
+```
+$ docker-compose up --build
+```
+Unfortunately you can't run this app without the .env but here is some images of what you could find on our application.
